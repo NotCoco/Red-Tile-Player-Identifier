@@ -1,0 +1,11 @@
+# Red Tile Clicker (Red-Outline Detector + Human Mouse Driver)
+
+> Computer-vision experiment that finds red tile outlines inside a game window, draws live overlays, and (optionally) moves/clicks the mouse in a human-like way.  
+> Includes WebSocket control, ROI calibration, and login/logout action boxes.
+
+---
+
+## Demo
+
+```md
+![Red tile detection demo](docs/red_tile_clicker_demo.gif)
