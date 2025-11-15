@@ -8,4 +8,4 @@
 ## Demo
 
 ```md
-![Red tile detection demo](/docs/red_tile_demo.gif)
+![Red tile detection demo](red_tile_demo.gif)
