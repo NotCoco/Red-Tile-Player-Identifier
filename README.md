@@ -8,3 +8,6 @@
 ## Demo
 
 ![Red tile detection demo](demos/red_tile_demo.gif)
+
+## Demo showcasing movement
+![Red tile detection demo](demos/red_demo_2.gif)
