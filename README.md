@@ -7,5 +7,4 @@
 
 ## Demo
 
-```md
 ![Red tile detection demo](red_tile_demo.gif)
